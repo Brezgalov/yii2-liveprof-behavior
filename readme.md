@@ -1,5 +1,7 @@
 ## Поведение для подключения LiveProf
 
+> composer require brezgalov/yii2-liveprof-behavior
+
 Подключение в конфиге:
 
     'bootstrap' => [
